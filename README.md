@@ -1,2 +1,3 @@
-# virtual-dog
-virtual-pet
+Virtual Pet
+WhiteHat Jr. Project 34
+2021
